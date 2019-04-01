@@ -1,0 +1,1 @@
+1. Adicione estilo a sua página inicial. Sinta-se a vontade para trocar a fonte, cores, adicionar imagens. Pesquise na internet e faça algo legal com o que já aprendeu e está aprendendo.
