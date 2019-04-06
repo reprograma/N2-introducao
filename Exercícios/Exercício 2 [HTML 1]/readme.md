@@ -1,4 +1,4 @@
-* Modifique o arquivo do exercício anterior, de modo que ele fique semelhante à figura ref02.jpg;
+* Modifique o arquivo do exercício anterior, de modo que ele fique semelhante ao arquivo de exemplo;
 * A página html deve conter:
   * Título da página;
   * Cabeçalho da página (header);
