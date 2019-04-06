@@ -1,4 +1,4 @@
-#Exercício 1 [Hellooooooooooo World!!]
+# Exercício 1 [Hellooooooooooo World!!]
 
 Objetivos:
  1. Criar um arquivo HTML com uma estrutura básica
