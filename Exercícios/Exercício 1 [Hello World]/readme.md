@@ -1,3 +1,9 @@
+#Exercício 1 [Hellooooooooooo World!!]
+
+Objetivos:
+ 1. Criar um arquivo HTML com uma estrutura básica
+ 
+Guia:
 * Crie uma pasta com o nome "meu-projeto";
 * Dentro da pasta, crie um arquivo .html da seguinte maneira:
     * Clique com o botão direito da do mouse sob a área da pasta;
