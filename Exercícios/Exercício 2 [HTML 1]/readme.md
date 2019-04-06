@@ -1,3 +1,9 @@
+# Exercício 2 [HTML 1]
+
+Objetivos:
+ 1. Adicionar elementos HTML, a página criada
+
+Guia:
 * Modifique o arquivo do exercício anterior, de modo que ele fique semelhante ao arquivo de exemplo;
 * A página html deve conter:
   * Título da página;
