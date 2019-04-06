@@ -3,7 +3,7 @@
 Objetivos:
   1. Construir uma estrutura de navegação;
   2. Adicionar estilos simples as páginas (inline e interno);
-  3. Criar tabelas.
+  3. Aprender e utilizar elementos HTML.
 
 Guia:
 * Altere a fonte da página html criada;
