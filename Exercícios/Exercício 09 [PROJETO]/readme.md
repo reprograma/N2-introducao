@@ -16,8 +16,8 @@ Guia:
   * Uma área de destaque;
   * Algum conteúdo textual;
 * **Sobre** deve conter:
-  * Uma foto sua;
-  * Um texto descritivo sobre você;
+  * Uma foto de cada uma de vocês;
+  * Um texto descritivo sobre vocês;
 * **Projetos** deve conter:
   * Uma lista dos seus projetos (pelo menos 5 itens):
     * Cada item da lista deve ter uma imagem (pode ser a mesma imagem para todos os itens);
